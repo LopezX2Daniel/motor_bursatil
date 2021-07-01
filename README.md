@@ -1,2 +1,2 @@
-# motor_bursatil
-Motor exprimental en Python para emparejar ordenes de compra y de venta.
+# mMotor Bursátil
+Motor exprimental en Python para emparejar ordenes a mercado de compra y de venta.
